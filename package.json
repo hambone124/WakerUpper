@@ -9,7 +9,7 @@
   "author": "Hamilton Perez",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "node-wol": "^0.1.1"
   }
 }
